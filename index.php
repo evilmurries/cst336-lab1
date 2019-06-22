@@ -36,8 +36,8 @@ in html
             <div>
                 Hello! <br />
                 <p>
-                    Thank you for visiting my professional portfolio website.
-                    I am a Software Engineering student at CSU - Monterey Bay.
+                    Thank you for visiting my professional portfolio website. <br>
+                    I am a Software Engineering student at CSU - Monterey Bay. <br>
                     Please feel free to contact me!
                 </p>
 
