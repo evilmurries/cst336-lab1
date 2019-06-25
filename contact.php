@@ -24,32 +24,13 @@ in html
         <hr />
             <nav>
                 <a href="index.php">Home</a>
-                <a href="about.php">About</a>
-                <a href="contact.php">Contact</a>
+                <a href="about.html">About</a>
+                <a href="contact.html">Contact</a>
             </nav>
         <br /><br />
-
-        <main>
-            <figure>
-                <img src="img/chris.jpg" alt="Picture of Christopher Piwarski"/>
-            </figure>
-
-            <div>
-                Hello! <br />
-                <p>
-                    Thank you for visiting my professional portfolio website. <br>
-                    I am a Software Engineering student at CSU - Monterey Bay. <br>
-                    Please feel free to contact me!
-                </p>
-
-                <br/><br />
-
-                <em>"With ordinary talent and extraordinary 
-                    <strong>perseverance</strong>, all things are attainable"
-                </em><br />
-                    - Thomas F. Buxton
-            </div>
-        </main>
+      <div id="form">
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdH-MEdWt_oTZxpROfvFKhLuKK7UbLNL349G_TFn-Do94oyiQ/viewform?embedded=true" width="640" height="1017" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+      </div>
         <footer>
             <hr>
           <img src="img/csumb_logo.png" alt="CSUMB Logo Image"><br />

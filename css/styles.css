@@ -7,6 +7,12 @@ header, main, nav, footer {
     text-align: center;
 }
 
+h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 4em;
+  margin-bottom: 0px;
+}
+
 nav a {
     padding: 15px;
     padding-bottom: 4px;
@@ -33,5 +39,36 @@ footer {
 
 table {
   color: white;
+  margin: 0px auto;
+}
+
+td {
+  padding-right: 10px;
+  font-size: 1.3em;
+}
+
+td strong {
+  color: orange;
+}
+
+#table-header {
+  background-color: #351A00;
+}
+
+.table-row {
+  background-color: #753900;
+}
+
+#form {
   justify-content: center;
+}
+
+ul {
+  width: 500px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.hobby {
+  color: yellow;
 }
