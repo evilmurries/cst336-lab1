@@ -24,8 +24,8 @@ in html
         <hr />
             <nav>
                 <a href="index.php">Home</a>
-                <a class="currentPage" href="about.html">About</a>
-                <a href="contact.html">Contact</a>
+                <a class="currentPage" href="about.php">About</a>
+                <a href="contact.php">Contact</a>
             </nav>
         <br /><br />
       <div id="content">
