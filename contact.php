@@ -25,7 +25,7 @@ in html
             <nav>
                 <a href="index.php">Home</a>
                 <a href="about.php">About</a>
-                <a class="currentPage" href="contact.php">Contact</a>
+                <a id="currentPage" href="contact.php">Contact</a>
             </nav>
         <br /><br />
       <div id="form">

@@ -28,7 +28,7 @@ nav a:hover {
 }
 
 #form {
-  margin: auto 0;
+  text-align: center;
 }
 
 main {
@@ -36,8 +36,8 @@ main {
   justify-content: center;
 }
 
-.currentPage {
-  font-size: 6em;
+#currentPage {
+  font-size: 3em;
 }
 
 footer {
