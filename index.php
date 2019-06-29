@@ -23,7 +23,7 @@ in html
         </header>
         <hr />
             <nav>
-                <a class="currentPage"" href="index.php">Home</a>
+                <a class="currentPage" href="index.php">Home</a>
                 <a href="about.php">About</a>
                 <a href="contact.php">Contact</a>
             </nav>
